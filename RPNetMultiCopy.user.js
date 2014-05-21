@@ -2,6 +2,8 @@
 // @name          RPNet MultiCopy
 // @namespace     erosman
 // @description   Copy Multiple Text Links and URLs
+// @updateURL     https://github.com/erosman/RPNetMultiCopy/blob/master/RPNetMultiCopy.user.js
+// @downloadURL   https://github.com/erosman/RPNetMultiCopy/blob/master/RPNetMultiCopy.user.js
 // @include       https://premium.rpnet.biz/usercp.php?action=downloader
 // @include       http://ld.rtify.com/*
 // @include       http://www.embedupload.com/?*
