@@ -24,6 +24,7 @@ Copy Multiple Text Links and URLs
   - Automatically clears the RPNet textarea notification before pasting
   - Localized Language
 
+
   Few sites has been added to start with:
 
   To add sites:
@@ -33,10 +34,10 @@ Copy Multiple Text Links and URLs
   - Click OK
 
 
+
   --------- History ---------
 
-  - 1.6 Added Localized Language Script + Code Improvement + Added alternative textarea for pasting
-      + Removed OS based New-Line variants
+  - 1.6 Added Localized Language Script + Code Improvement + Added alternative textarea for pasting + Removed OS based New-Line variants
   - 1.5 Firefox Code separation + notification on all pages
   - 1.4 Save to Clipboard Option added (Firefox Only) +  Added OS based New-Line variants
   - 1.3 Added HTML hyperlink parsing + Added button mouseover notice
