@@ -35,11 +35,11 @@ Copy Multiple Text Links and URLs
 
   --------- History ---------
 
-  1.6 Added Localized Language Script + Code Improvement + Added alternative textarea for pasting
+  - 1.6 Added Localized Language Script + Code Improvement + Added alternative textarea for pasting
       + Removed OS based New-Line variants
-  1.5 Firefox Code separation + notification on all pages
-  1.4 Save to Clipboard Option added (Firefox Only) +  Added OS based New-Line variants
-  1.3 Added HTML hyperlink parsing + Added button mouseover notice
-  1.2 Added Contex Menu Command (Firefox only)
-  1.1 Restyling + Code Improvement
-  1.0 Initial release
+  - 1.5 Firefox Code separation + notification on all pages
+  - 1.4 Save to Clipboard Option added (Firefox Only) +  Added OS based New-Line variants
+  - 1.3 Added HTML hyperlink parsing + Added button mouseover notice
+  - 1.2 Added Contex Menu Command (Firefox only)
+  - 1.1 Restyling + Code Improvement
+  - 1.0 Initial release
